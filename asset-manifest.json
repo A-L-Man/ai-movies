@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ai-movies/static/css/main.ea01ca15.css",
+    "main.js": "/ai-movies/static/js/main.9c2667f0.js",
+    "static/media/boxicons.svg": "/ai-movies/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/ai-movies/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/ai-movies/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/ai-movies/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/ai-movies/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/ai-movies/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/logo.png": "/ai-movies/static/media/logo.44319306359c7112276d.png",
+    "index.html": "/ai-movies/index.html",
+    "main.ea01ca15.css.map": "/ai-movies/static/css/main.ea01ca15.css.map",
+    "main.9c2667f0.js.map": "/ai-movies/static/js/main.9c2667f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea01ca15.css",
+    "static/js/main.9c2667f0.js"
+  ]
+}
